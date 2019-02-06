@@ -29,7 +29,7 @@ The approach is pretty simple. I just took two frames and compared them for a po
 Even in night with a bad camera quality it works just fine. How about a better camera?
 
 
-![](night_antiblurc_test.gif)
+![](night_better_test.gif)
 
 
 
