@@ -62,13 +62,10 @@ The approach is pretty simple. I just took two frames and compared them for a po
 <p>
     <img src="https://github.com/ankit1khare/ankit1khare.github.io/blob/master/_posts/gifs/1_x6wTWuWlwlnic30Mj61S0g.png?raw=true" style="max-width:100%;display: block;margin-left: auto;margin-right: auto;" alt>
     <center>
-      <em>This frame makes the operations performed in the above code very intuitive I guess</em>
+      <em>This frame makes the operations performed in the above code very intuitive I guess. For full code, check park_clever.ipynb</em>
     </center>
 </p>
 <br>
-
-
-For full code, check park_clever.ipynb by visiting the Git repo hereThis frame makes the operations performed in the above code very intuitive I guess
 
 
 
