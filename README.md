@@ -89,7 +89,7 @@ What if we use IPhone 7 plus ? let's see:
 <br>
 
 Easy, right! Now all I have for you guys is to check my other Yolo repository to see how we can speed up the process using batch-processing. Essentially, I am asking you to read multiple frames, keep them in buffer and then send them for processing to GPU at once to maximize GPU utilization. This way you might be able to take advantage of colab's 12 GB of free K80.
-Have fun and do let me know if you come up with any further cool ideas! You can find the code on my Git. The code is runnable on Google Colab. Check out my tutorial video on YouTube where I setup the colab and code the whole thing while explaining the
+Have fun and do let me know if you come up with any further cool ideas! You can find the code on my Git. The code is runnable on Google Colab. Check out my [tutorial video on YouTube](https://www.youtube.com/watch?v=1aNT6S_VBNc) where I setup the colab and code the whole thing while explaining the
 logic behind it.
 
 If we use something fast like ThinYOLO (computationally efficient and good accuracy) and adopt a pub-sub type architecture to subscribe to such an application, it should work well in a real-time parking without much retraining and maintenance cost. Moreover, there's no permission issue as in case of installing sensors.
